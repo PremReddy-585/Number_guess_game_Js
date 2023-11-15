@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    width: 215vh;
 }
 
 body{
@@ -17,7 +18,7 @@ body{
 }
  
 .guess-game-img {
-  width: 50%;
+  width: 39%;
 }
  
 .game-description {
